@@ -1,3 +1,4 @@
+<img width="1900" height="782" alt="Steps Applied" src="https://github.com/user-attachments/assets/59a0323b-a15f-49a7-a2a7-0173b6fb25ab" />
 # HR Analytics Dashboard – Power BI Project
 
 This project is an interactive HR Analytics Dashboard developed using Power BI to analyze employee-related data and generate meaningful business insights. The dashboard helps visualize workforce distribution, salary trends, attendance performance, department-wise employee count, and country-based employee analysis through dynamic and interactive visualizations.
